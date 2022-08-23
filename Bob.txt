@@ -1,1 +1,2 @@
 Oi! Eu sou o Bob. Eu sou novo aqui.
+Está é uma nova linha que eu adicionei.
