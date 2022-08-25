@@ -1,4 +1,4 @@
 Oi! Eu sou Alice. Sou um arquivo que alguém adicionou neste repositório há um bom tempo.
 Novamente foi adicionado algo.
-Este é um texto que foi adicionado faz bem pouco tempo.
-
+Este é um texto que foi adicionado faz bem pouco tempo!
+Agora adicionei outro texto
